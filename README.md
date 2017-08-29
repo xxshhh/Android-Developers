@@ -17,6 +17,7 @@
   - Wear
   - TV
   - Auto
+  - Chrome OS
   - Things
 - **DESIGN - 设计**
 - **DEVELOP - 开发**
@@ -37,7 +38,6 @@
   - Marketing tools
   - Policy center
 - STORIES - 故事
-- PREVIEW - 预览
 
 ### 我的目录
 
