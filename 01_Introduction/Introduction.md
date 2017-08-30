@@ -21,7 +21,7 @@
 
 ## 官网介绍
 
-Android 作为一款操作系统，官方对其应用领域主要分为五个部分：Android、Wear、TV、Auto、Things。
+Android 作为一款操作系统，官方对其使用场景主要分为六个部分：Android、Wear、TV、Auto、Chrome OS、Things。
 
 ### Android
 
