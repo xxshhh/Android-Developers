@@ -29,12 +29,22 @@ Android 作为一款操作系统，官方对其使用场景主要分为六个部
 
 Android 操作系统的版本历史：
 
-- Oreo - 奥利奥 - Android 8.0 - API 26
+- Android 1.0 - API 1
+- Android 1.1 - API 2
+- Android 1.5 - Cupcake 纸杯蛋糕 - API 3
+- Android 1.6 - Donut 甜甜圈 - API 4
+- Android 2.0, 2.0.1, 2.1 - Eclair 松饼 - API 5, 6, 7
+- Android 2.2 - Froyo 冻酸奶 - API 8
+- Android 2.3, 2.3.3 - Gingerbread 姜饼 - API 9, 10
+- Android 3.0, 3.1, 3.2 - Honeycomb 蜂巢 - API 11, 12, 13
+- Android 4.0, 4.0.3 - Ice Cream Sandwich 冰淇淋三明治 - API 14, 15
+- Android 4.1, 4.2, 4.3 - Jelly Bean 果冻豆 - API 16, 17, 18
+- Android 4.4, 4.4W - KitKat 奇巧 - API 19, 20
+- Android 5.0, 5.1 - Lollipop 棒棒糖 - API 21, 22
+- Android 6.0 - Marshmallow 棉花糖 - API 23
+- Android 7.0, 7.1.1 - Nougat 牛轧糖 - API 24, 25
+- Android 8.0 - Oreo 奥利奥 - API 26
 
-
-```
-
-```
 
 ### Wear
 
