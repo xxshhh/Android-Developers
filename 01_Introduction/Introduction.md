@@ -46,6 +46,10 @@ Android 操作系统的版本历史：
 - Android 8.0 - Oreo 奥利奥 - API 26
 
 
+Android 版本分布：
+
+![android_platform_distribution_20170808](images/android_platform_distribution_20170808.png)
+
 ### Wear
 
 ![android_wear](images/android_wear.jpg)
