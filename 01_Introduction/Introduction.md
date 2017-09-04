@@ -29,6 +29,8 @@ Android 作为一款操作系统，官方对其使用场景主要分为六个部
 
 Android 操作系统的版本历史：
 
+*注：此处记录的是那些有更新 API 的版本。*
+
 - Android 1.0 - API 1
 - Android 1.1 - API 2
 - Android 1.5 - Cupcake 纸杯蛋糕 - API 3
@@ -49,6 +51,14 @@ Android 操作系统的版本历史：
 Android 版本分布：
 
 ![android_platform_distribution_20170808](images/android_platform_distribution_20170808.png)
+
+一些重要版本特性：
+
+- 8.0 主要特性：通知、画中画、自动填充、自适应图标等。
+- 7.0 主要特性：多窗口UI、直接回复通知、VR支持等；7.1 增加了应用快捷方式。
+- 6.0 主要特性：运行时权限、指纹身份验证、低电耗模式和应用待机模式省电功能等。
+- 5.0 主要特性：Material Design、ART运行时、支持64位架构、支持Android TV和Auto等，官方评价为**”迄今为止功能最丰富并且最富雄心的 Android 版本！“**；5.1 增加了多SIM卡支持。
+- ​
 
 ### Wear
 
