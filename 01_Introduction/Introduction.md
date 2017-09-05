@@ -2,6 +2,8 @@
 
 ## 说在前面
 
+由于官网并没有介绍 Android 的发展历史，故从维基百科、百度百科等多方位整理了一些东西，以便更好的认识 Android。
+
 ![android_robot_2014](images/android_robot_2014.png)
 
 ![android_logo_2014](images/android_logo_2014.png)
@@ -9,8 +11,6 @@
 ![htc_g1](images/htc_g1.jpg)
 
 ![2_billion_monthly_active_devices](images/2_billion_monthly_active_devices.jpg)
-
-由于官网并没有介绍 Android 的发展历史，故从维基百科、百度百科等多方位整理了一些东西，以便更好的认识 Android。
 
 - Android 是一个基于 **Linux 内核**的**开放源代码移动操作系统**。
 - Android 标志是一个全身绿色的机器人，颜色在 RGB 中十六进制代码为 **#A4C639**。
@@ -21,7 +21,7 @@
 
 ## 官网介绍
 
-Android 作为一款操作系统，官方对其使用场景主要分为六个部分：Android、Wear、TV、Auto、Chrome OS、Things。
+官方在首页的入门介绍主要分为六个部分：Android、Wear、TV、Auto、Chrome OS、Things。此处重点介绍 Android 部分，其余部分简单带过。
 
 ### Android
 
@@ -66,10 +66,26 @@ Android 版本分布：
 
 Android Wear 将 Android 平台拓展至可穿戴设备，简洁、易懂、并且微互动。
 
-Android Wear API 主要功能：同步通知，语音操作，开发可穿戴式设备应用，发送数据。
-
-最新版本 Android Wear 2.0。
-
 ### TV
 
-Android TV 
+![android_tv](images/android_tv.jpg)
+
+Android TV 提供大屏幕的应用、游戏和内容，提升浏览效率。
+
+### Auto
+
+![android_auto](images/android_auto.png)
+
+Android Auto 通过更大的触控目标，简化的界面和易于使用的语音操作，它旨在尽量减少分心，让您可以专注于道路上。
+
+### Chrome OS
+
+![chrome_os](images/chrome_os.png)
+
+Chrome OS 是一个为上网本设计的轻量级开源操作系统。
+
+### Things
+
+![android_things](images/android_things.jpg)
+
+Android Things 是 Google 面向物联网设备市场推出的系统。
